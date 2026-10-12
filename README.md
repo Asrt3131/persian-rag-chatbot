@@ -8,7 +8,7 @@
 
 | Resource | Link |
 |----------|------|
-| 🌐 **Live Demo** | [nexus-rag.streamlit.app](https://nexus-rag.streamlit.app) |
+| 🌐 **Live Demo** | [https://persian-rag-chatbot-amtzeujabqdazrzcvnrew5.streamlit.app/](https://persian-rag-chatbot-amtzeujabqdazrzcvnrew5.streamlit.app/) |
 | 📂 **GitHub Repository** | [github.com/A-srt343/persian-rag-chatbot](https://github.com/A-srt343/persian-rag-chatbot) |
 | 🐛 **Report a Bug** | [Open an Issue](https://github.com/A-srt343/persian-rag-chatbot/issues/new) |
 | 💡 **Request a Feature** | [Open a Discussion](https://github.com/A-srt343/persian-rag-chatbot/discussions) |
